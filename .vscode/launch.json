@@ -1,0 +1,623 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "day8_2",
+            "request": "launch",
+            "mainClass": "day8.day8_2",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "day8",
+            "request": "launch",
+            "mainClass": "day8.day8",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "day10_2",
+            "request": "launch",
+            "mainClass": "day10.day10_2",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "day10",
+            "request": "launch",
+            "mainClass": "day10.day10",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "day6",
+            "request": "launch",
+            "mainClass": "day6.day6",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "testParser",
+            "request": "launch",
+            "mainClass": "day5.testParser",
+            "projectName": "AdventureOfCode2022_e29f87d9"
+        },
+        {
+            "type": "java",
+            "name": "Launch day5",
+            "request": "launch",
+            "mainClass": "day5.day5",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch testParser",
+            "request": "launch",
+            "mainClass": "day5.testParser",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch day11_test2$Main",
+            "request": "launch",
+            "mainClass": "day11.day11_test2$Main",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch day11_test",
+            "request": "launch",
+            "mainClass": "day11.day11_test",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch day11",
+            "request": "launch",
+            "mainClass": "day11.day11",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day20",
+            "request": "launch",
+            "mainClass": "day20.Day20",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day20_opt",
+            "request": "launch",
+            "mainClass": "day20.Day20_opt",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day20_2",
+            "request": "launch",
+            "mainClass": "day20.Day20_2",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch day12_2",
+            "request": "launch",
+            "mainClass": "day12.day12_2",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch day13",
+            "request": "launch",
+            "mainClass": "day13.day13",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day24",
+            "request": "launch",
+            "mainClass": "day24.Day24",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day25_parallel",
+            "request": "launch",
+            "mainClass": "day25.Day25_parallel",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch prueba",
+            "request": "launch",
+            "mainClass": "day25.prueba",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch combination",
+            "request": "launch",
+            "mainClass": "librerias.combination",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day25",
+            "request": "launch",
+            "mainClass": "day25.Day25",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day23_2",
+            "request": "launch",
+            "mainClass": "day23.Day23_2",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day23",
+            "request": "launch",
+            "mainClass": "day23.Day23",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day23",
+            "request": "launch",
+            "mainClass": "day23.Day23",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day22_2",
+            "request": "launch",
+            "mainClass": "day22.Day22_2",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day22_2",
+            "request": "launch",
+            "mainClass": "day22.Day22_2",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day22",
+            "request": "launch",
+            "mainClass": "day22.Day22",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day22",
+            "request": "launch",
+            "mainClass": "day22.Day22",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day21_2",
+            "request": "launch",
+            "mainClass": "day21.Day21_2",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day21_2",
+            "request": "launch",
+            "mainClass": "day21.Day21_2",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day21",
+            "request": "launch",
+            "mainClass": "day21.Day21",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day20_opt",
+            "request": "launch",
+            "mainClass": "day20.Day20_opt",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day20_2",
+            "request": "launch",
+            "mainClass": "day20.Day20_2",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day20",
+            "request": "launch",
+            "mainClass": "day20.Day20",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "Launch day10_2",
+            "request": "launch",
+            "mainClass": "day10.day10_2",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch day8_2",
+            "request": "launch",
+            "mainClass": "day8.day8_2",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch day7_2",
+            "request": "launch",
+            "mainClass": "day7.day7_2",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch day6_2",
+            "request": "launch",
+            "mainClass": "day6.day6_2",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch day4",
+            "request": "launch",
+            "mainClass": "day4.day4",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch day3",
+            "request": "launch",
+            "mainClass": "day3.day3",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day16_2",
+            "request": "launch",
+            "mainClass": "day16.Day16_2",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day16",
+            "request": "launch",
+            "mainClass": "day16.Day16",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day18_2",
+            "request": "launch",
+            "mainClass": "day18.Day18_2",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day18",
+            "request": "launch",
+            "mainClass": "day18.Day18",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day16",
+            "request": "launch",
+            "mainClass": "day16.Day16",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day18_2",
+            "request": "launch",
+            "mainClass": "day18.Day18_2",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day18",
+            "request": "launch",
+            "mainClass": "day18.Day18",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day17_2_opt",
+            "request": "launch",
+            "mainClass": "day17.Day17_2_opt",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day17_2",
+            "request": "launch",
+            "mainClass": "day17.Day17_2",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day17",
+            "request": "launch",
+            "mainClass": "day17.Day17",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day17",
+            "request": "launch",
+            "mainClass": "day17.Day17",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day15_2",
+            "request": "launch",
+            "mainClass": "day15.Day15_2",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day15_2_parallel",
+            "request": "launch",
+            "mainClass": "day15.Day15_2_parallel",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day15_2",
+            "request": "launch",
+            "mainClass": "day15.Day15_2",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day15_opt",
+            "request": "launch",
+            "mainClass": "day15.Day15_opt",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day15_opt",
+            "request": "launch",
+            "mainClass": "day15.Day15_opt",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day15",
+            "request": "launch",
+            "mainClass": "day15.Day15",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day15",
+            "request": "launch",
+            "mainClass": "day15.Day15",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch day14_2",
+            "request": "launch",
+            "mainClass": "day14.day14_2",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch day14",
+            "request": "launch",
+            "mainClass": "day14.day14",
+            "projectName": "AdventureOfCode2022_7cb99a32"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch day1",
+            "request": "launch",
+            "mainClass": "day1.day1",
+            "projectName": "AdventureOfCode2021_840e3887"
+        },
+        {
+            "type": "java",
+            "name": "Launch day12",
+            "request": "launch",
+            "mainClass": "day1.day12",
+            "projectName": "AdventureOfCode2021_840e3887"
+        },
+        {
+            "type": "java",
+            "name": "Launch day2",
+            "request": "launch",
+            "mainClass": "day2.day2",
+            "projectName": "AdventureOfCode2021_840e3887"
+        },
+        {
+            "type": "java",
+            "name": "Launch day2_2",
+            "request": "launch",
+            "mainClass": "day2.day2_2",
+            "projectName": "AdventureOfCode2021_840e3887"
+        },
+        {
+            "type": "java",
+            "name": "Launch day3",
+            "request": "launch",
+            "mainClass": "day3.day3",
+            "projectName": "AdventureOfCode2021_840e3887"
+        },
+        {
+            "type": "java",
+            "name": "Launch day3_2",
+            "request": "launch",
+            "mainClass": "day3.day3_2",
+            "projectName": "AdventureOfCode2021_840e3887"
+        },
+        {
+            "type": "java",
+            "name": "Launch day4",
+            "request": "launch",
+            "mainClass": "day4.day4",
+            "projectName": "AdventureOfCode2021_840e3887"
+        },
+        {
+            "type": "java",
+            "name": "Launch da5",
+            "request": "launch",
+            "mainClass": "day5.da5",
+            "projectName": "AdventureOfCode2021_840e3887"
+        },
+        {
+            "type": "java",
+            "name": "Launch da5_2",
+            "request": "launch",
+            "mainClass": "day5.da5_2",
+            "projectName": "AdventureOfCode2021_840e3887"
+        },
+        {
+            "type": "java",
+            "name": "Launch day6",
+            "request": "launch",
+            "mainClass": "day6.day6",
+            "projectName": "AdventureOfCode2021_840e3887"
+        },
+        {
+            "type": "java",
+            "name": "Launch day6_2",
+            "request": "launch",
+            "mainClass": "day6.day6_2",
+            "projectName": "AdventureOfCode2021_840e3887"
+        },
+        {
+            "type": "java",
+            "name": "Launch day7",
+            "request": "launch",
+            "mainClass": "day7.day7",
+            "projectName": "AdventureOfCode2021_840e3887"
+        },
+        {
+            "type": "java",
+            "name": "Launch day7_2",
+            "request": "launch",
+            "mainClass": "day7.day7_2",
+            "projectName": "AdventureOfCode2021_840e3887"
+        },
+        {
+            "type": "java",
+            "name": "Launch day8",
+            "request": "launch",
+            "mainClass": "day8.day8",
+            "projectName": "AdventureOfCode2021_840e3887"
+        },
+        {
+            "type": "java",
+            "name": "Launch day9",
+            "request": "launch",
+            "mainClass": "day9.day9",
+            "projectName": "AdventureOfCode2021_840e3887"
+        },
+        {
+            "type": "java",
+            "name": "Launch day9_2",
+            "request": "launch",
+            "mainClass": "day9.day9_2",
+            "projectName": "AdventureOfCode2021_840e3887"
+        },
+        {
+            "type": "java",
+            "name": "Launch day1(1)",
+            "request": "launch",
+            "mainClass": "day1.day1",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "Launch day1_2",
+            "request": "launch",
+            "mainClass": "day1.day1_2",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "Launch day11",
+            "request": "launch",
+            "mainClass": "day11.day11",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "Launch day11_2",
+            "request": "launch",
+            "mainClass": "day11.day11_2",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "Launch day11_test",
+            "request": "launch",
+            "mainClass": "day11.day11_test",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "Launch day11_test2$Main",
+            "request": "launch",
+            "mainClass": "day11.day11_test2$Main",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "Launch day12(1)",
+            "request": "launch",
+            "mainClass": "day12.day12",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "Launch day13",
+            "request": "launch",
+            "mainClass": "day13.day13",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "Launch sol",
+            "request": "launch",
+            "mainClass": "day13.sol",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "Launch day14",
+            "request": "launch",
+            "mainClass": "day14.day14",
+            "projectName": "AdventureOfCode2022_840e3888"
+        },
+        {
+            "type": "java",
+            "name": "Launch day2(1)",
+            "request": "launch",
+            "mainClass": "day2.day2",
+            "projectName": "AdventureOfCode2022_840e3888"
+        }
+    ]
+}
